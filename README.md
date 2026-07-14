@@ -1,4 +1,8 @@
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+  <img src="banner-light.png" alt="Junê — the context engine for AI agents" width="100%">
+</picture>
 
 # Junê
 
